@@ -1,5 +1,4 @@
       requests
       telethon
       telebot
-      import random
 # ... другие библиотек
