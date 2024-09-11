@@ -3,7 +3,7 @@ import sqlite3
 import random
 
 # Ваш токен Telegram-бота
-TOKEN = 'YOUR_BOT_TOKEN'
+TOKEN = '7214879221:AAH_lUO_8B8NcWDw5RSrmICNkj84C6VTOuY'
 bot = telebot.TeleBot(TOKEN)
 
 # Функция для добавления пользователя в базу данных
