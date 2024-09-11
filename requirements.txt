@@ -1,6 +1,5 @@
       requests
       telethon
       telebot
-      import sqlite3
       import random
 # ... другие библиотек
