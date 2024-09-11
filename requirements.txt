@@ -1,4 +1,0 @@
-      requests
-      telethon
-      telebot
-# ... другие библиотек
