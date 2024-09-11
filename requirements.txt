@@ -1,3 +1,6 @@
       requests
       telethon
-      # ... другие библиотек
+      telebot
+      import sqlite3
+      import random
+# ... другие библиотек
